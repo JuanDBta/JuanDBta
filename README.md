@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **simplebetSAS@gmail.com**
 
-- 📄 Know about my experiences [Coming soon!!!](Coming soon!!!)
+- 📄 Know about my experiences [Coming soon!!!]
 
 - ⚡ Fun fact **🚀Physics & 🎨Arts lover. 🎢Entrepeneur. Father of 🐶Felicia & 🐱Coco!**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Juan</h1>
-<h3 align="center">A innovative software developer (in process) from Colombia</h3>
+<h3 align="center">A innovative software developer student from Colombia</h3>
 
 - 🔭 I’m currently working on [To Do List App](https://juandbta.github.io/ToDoList-Project/dist/)
 

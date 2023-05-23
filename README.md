@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Juan</h1>
 <h3 align="center">A innovative software developer (in process) from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juandbta&label=Profile%20views&color=0e75b6&style=flat" alt="juandbta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juandbta" alt="juandbta" /></a> </p>
-
 - 🔭 I’m currently working on [To Do List App](https://juandbta.github.io/ToDoList-Project/dist/)
 
 - 🌱 I’m currently learning **FullStack WebDev at Microverse**

@@ -30,6 +30,7 @@
 <a href="https://instagram.com/@juandiazregio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@juandiazregio" height="30" width="40" /></a>
 <a href="https://www.behance.net/juandaviddiaz4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="juandaviddiaz4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@juandavid_diaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@juandavid_diaz" height="30" width="40" /></a>
+<a href="https://www.twitter.com/@simplebetsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@simblebetsas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

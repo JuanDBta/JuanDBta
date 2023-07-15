@@ -6,7 +6,7 @@
 
 - 🌎 Open to new opportunities!!
 
-- 🔭 I’m currently working on [To Do List App](https://juandbta.github.io/ToDoList-Project/dist/)
+- 🔭 I’m currently working on [Space Traveler's Hub](https://spacex-4e71.onrender.com/)
 
 - 🌱 I’m currently learning **FullStack WebDev at Microverse**
 

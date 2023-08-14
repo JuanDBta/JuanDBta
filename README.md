@@ -1,4 +1,4 @@
-![GIF](https://i.pinimg.com/originals/34/ac/31/34ac31c2ab7103586c407ec93ee15e7d.gif)
+<p align="center">![GIF](https://i.pinimg.com/originals/34/ac/31/34ac31c2ab7103586c407ec93ee15e7d.gif)</p>
 
 <h1 align="center">Hey 👋, I'm Juan Díaz</h1>
 <h3 align="center">An innovative software developer student from Colombia</h3>

@@ -1,6 +1,8 @@
+<h1 align="center">Hey 👋, I'm Juan Díaz</h1>
+
 ![GIF](https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif)![GIF](https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif)
 
-<h1 align="center">Hey 👋, I'm Juan Díaz</h1>
+
 <h3 align="center">An innovative software developer student from Colombia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandbta&label=Profile%20views&color=0e75b6&style=flat" alt="juandbta" /> </p>
 

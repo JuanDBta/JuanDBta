@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
+![Banner]([https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif](https://i.gifer.com/AQQT.gif))
 <h1 align="center">Hey 👋, I'm Juan Díaz</h1>
 <h3 align="center">An innovative software developer student from Colombia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandbta&label=Profile%20views&color=0e75b6&style=flat" alt="juandbta" /> </p>

@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
+![Banner]<div style="padding-top:56.200%;position:relative;"><iframe src="https://gifer.com/embed/J4o" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">a través de GIFER</a></p>
 <h1 align="center">Hey 👋, I'm Juan Díaz</h1>
 <h3 align="center">An innovative software developer student from Colombia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandbta&label=Profile%20views&color=0e75b6&style=flat" alt="juandbta" /> </p>

@@ -1,4 +1,4 @@
-![GIF](https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif)(https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif)
+![GIF](https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif)![GIF](https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif)
 
 <h1 align="center">Hey 👋, I'm Juan Díaz</h1>
 <h3 align="center">An innovative software developer student from Colombia</h3>

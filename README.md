@@ -1,4 +1,4 @@
-![GIF](https://i.gifer.com/IrBi.gif)
+![GIF](https://i.pinimg.com/originals/c0/0a/28/c00a28a726276f4f78baf2592e89cf07.gif)
 
 <h1 align="center">Hey 👋, I'm Juan Díaz</h1>
 <h3 align="center">An innovative software developer student from Colombia</h3>

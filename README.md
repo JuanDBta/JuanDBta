@@ -2,8 +2,8 @@
 <h3 align="center">An innovative software developer from Colombia</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif" alt="GIF" width="300px">
-  <img src="https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif" alt="GIF" width="300px">
+  <img src="https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif" alt="GIF" width="400px">
+  <img src="https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif" alt="GIF" width="400px">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandbta&label=Profile%20views&color=0e75b6&style=flat" alt="juandbta" /> </p>
 

@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **your current project!**
 
-- 👨‍💻 All of my projects are available at [https://juandbta.github.io/Portfolio-project/](https://juandbta.github.io/Portfolio-project/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://juandbta.github.io/Portfolio-project/)
 
 - 💬 Ask me about **HTML, CSS, JS, REACT, POSTGRESQL, RUBY, RAILS  and more...**
 

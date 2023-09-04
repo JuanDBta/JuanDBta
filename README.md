@@ -8,7 +8,7 @@
 
 - 🌎 Open to new opportunities!!
 
-- 🔭 I’m currently working on [MET ART WEBSITE](https://met-app.onrender.com/)
+- 🔭 I’m currently working on [LIST OF MY THINGS!!](https://github.com/beteland123/ruby-capstone)
 
 - 🌱 I’m currently learning **FullStack WebDev at Microverse**
 

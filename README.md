@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, REACT, POSTGRESQL, RUBY, RAILS  and more...**
 
-- 📫 How to reach me **simplebetasas@gmail.com**
+- 📫 How to reach me **simplebetsas@gmail.com**
 
 - 📄 Know about my experiences [Coming soon!!!]
 

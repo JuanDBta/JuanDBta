@@ -8,7 +8,7 @@
 
 - 🌎 Open to new opportunities!!
 
-- 🔭 I’m currently working on [My Finances App!!]((https://my-finances-0m69.onrender.com/)
+- 🔭 I’m currently working on [My Finances App!!](https://my-finances-0m69.onrender.com/)
 
 - 🌱 I’m currently learning **FullStack WebDev at Microverse**
 

@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [Coming soon!!!]
 
-- ⚡ Fun fact **🚀Physics 🎨Arts lover 🎢Entrepeneur 🤠Father of 🐶Felicia & 🐱Coco!**
+- ⚡ Fun fact **🚀Physics 🎨Arts lover 🎢Entrepeneur 🤠Father to 🐶Felicia & 🐱Coco!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

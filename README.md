@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **your current project!**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://juandbta.github.io/Portfolio-project/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://juan-diaz.me/#)
 
 - 👨‍💻 Check my [Resume](https://drive.google.com/file/d/1t7Jv9JKP-XGywFK6x5JDF5LD_U7xWVt5/view?usp=sharing)
 

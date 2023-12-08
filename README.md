@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [BookingBites App!!](https://bookingbites-ve9h.onrender.com)
 
-- 🌱 I’m currently learning **Python at Codeacademy**
+- 🌱 I’m currently learning **Python at Codecademy**
 
 - 👯 I’m looking to collaborate on **your current project!**
 

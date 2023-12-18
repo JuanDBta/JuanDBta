@@ -8,7 +8,7 @@
 
 - 🌎 Open to new opportunities!!
 
-- 🔭 I’m currently working on [BookingBites App!!](https://bookingbites-ve9h.onrender.com)
+- 🔭 I’m currently working on [SnapLife!!](https://github.com/JuanDBta/SnapLife)
 
 - 🌱 I’m currently learning **Python at Codecademy**
 

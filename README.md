@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [SnapLife!!](https://github.com/JuanDBta/SnapLife)
 
-- 🌱 I’m currently learning **Python at Codecademy**
+- 🌱 I’m currently learning **Python at DataCamp**
 
 - 👯 I’m looking to collaborate on **your current project!**
 

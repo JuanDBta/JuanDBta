@@ -8,7 +8,7 @@
 
 - 🌎 Open to new opportunities!!
 
-- 🔭 I’m currently working on [SnapLife!!](https://github.com/JuanDBta/SnapLife)
+- 🔭 I’m currently working on [Realtime Search Box!!](https://search-project.onrender.com/)
 
 - 🌱 I’m currently learning **Python at DataCamp**
 

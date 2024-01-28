@@ -18,7 +18,7 @@
 
 - 👨‍💻 Check my [Resume](https://drive.google.com/file/d/1t7Jv9JKP-XGywFK6x5JDF5LD_U7xWVt5/view?usp=sharing)
 
-- 💬 Ask me about **HTML, CSS, JS, REACT, POSTGRESQL, RUBY, RAILS  and more...**
+- 💬 Ask me about **HTML, CSS, JS, REACT, POSTGRESQL, RUBY, RAILS, PYTHON, NUMPY, MATPLOTLIB  and more...**
 
 - 📫 How to reach me **simplebetsas@gmail.com**
 
